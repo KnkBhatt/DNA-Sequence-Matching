@@ -203,8 +203,3 @@ Integrate clinical datasets for enhanced diagnostics
 ## Contributing
 
 For contribution guidelines, please see the project's main repository. Small improvements to documentation, tests, and minor bug fixes are welcome contributions.
-Jai Hind.
-
-
-
-
